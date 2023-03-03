@@ -1,5 +1,6 @@
 # console_calculator
-console calculator for simple arithmetic expressions based on "eval" function.
+Сonsole calculator for simple arithmetic expressions based on "eval" function.
+Protected from letter input.
 
 ![python version](https://img.shields.io/badge/Python-3.10.0-green)
 
